@@ -1,0 +1,101 @@
+"","X.1","X","Country.code","COUNTRY","Region","Income.group","YEAR","DB_score"
+"2",2,19,"ALB","Albania","Europe & Central Asia","Upper middle income",2019,66.6
+"3",3,36,"DZA","Algeria","Middle East & North Africa","Lower-middle income",2019,48.2
+"6",6,87,"ARG","Argentina","Latin America & Caribbean","Upper middle income",2019,58.8
+"8",9,138,"AUT","Austria","High income: OECD","High income",2019,78.4
+"9",10,155,"AZE","Azerbaijan","Europe & Central Asia","Upper middle income",2019,74.4
+"12",13,206,"BGD","Bangladesh","South Asia","Lower middle income",2019,42.8
+"17",18,291,"BEL","Belgium","High income: OECD","High income",2019,74.4
+"19",20,325,"BEN","Benin","Sub-Saharan Africa","Lower-middle income",2019,51.7
+"21",22,359,"BOL","Bolivia","Latin America & Caribbean","Lower middle income",2019,51.5
+"22",23,376,"BIH","Bosnia and Herzegovina","Europe & Central Asia","Upper middle income",2019,65.6
+"23",24,393,"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2019,66.3
+"24",25,410,"BRA","Brazil","Latin America & Caribbean","Upper middle income",2019,58.3
+"28",29,478,"BGR","Bulgaria","Europe & Central Asia","Upper middle income",2019,71.6
+"29",30,495,"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2019,50.9
+"30",31,512,"BDI","Burundi","Sub-Saharan Africa","Low income",2019,46.5
+"32",33,546,"KHM","Cambodia","East Asia & Pacific","Lower middle income",2019,53.8
+"33",34,563,"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2019,46
+"34",35,580,"CAN","Canada","High income: OECD","High income",2019,80.2
+"36",37,614,"TCD","Chad","Sub-Saharan Africa","Low income",2019,36.7
+"37",38,631,"CHL","Chile","High income: OECD","High income",2019,72.5
+"40",42,699,"COL","Colombia","Latin America & Caribbean","Upper middle income",2019,69.5
+"44",46,767,"CRI","Costa Rica","Latin America & Caribbean","Upper middle income",2019,68.4
+"46",48,801,"HRV","Croatia","Europe & Central Asia","High income",2019,73.3
+"47",49,818,"CYP","Cyprus","Europe & Central Asia","High income",2019,73.4
+"48",50,835,"CZE","Czech Republic","High income: OECD","High income",2019,76.8
+"52",54,903,"DOM","Dominican Republic","Latin America & Caribbean","Upper middle income",2019,59.1
+"53",55,920,"ECU","Ecuador","Latin America & Caribbean","Upper middle income",2019,57.5
+"55",57,954,"SLV","El Salvador","Latin America & Caribbean","Lower middle income",2019,64.9
+"58",60,1005,"EST","Estonia","High income: OECD","High income",2019,80.9
+"60",62,1039,"ETH","Ethiopia","Sub-Saharan Africa","Low income",2019,47.1
+"62",64,1073,"FIN","Finland","High income: OECD","High income",2019,79.8
+"64",66,1107,"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2019,43.8
+"66",68,1141,"GEO","Georgia","Europe & Central Asia","Upper middle income",2019,83.5
+"67",69,1158,"DEU","Germany","High income: OECD","High income",2019,79
+"68",70,1175,"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2019,60.2
+"69",71,1192,"GRC","Greece","High income: OECD","High income",2019,67.5
+"71",73,1226,"GTM","Guatemala","Latin America & Caribbean","Upper middle income",2019,61.5
+"72",74,1243,"GIN","Guinea","Sub-Saharan Africa","Low income",2019,49.1
+"76",78,1311,"HND","Honduras","Latin America & Caribbean","Lower middle income",2019,53.9
+"78",80,1345,"HUN","Hungary","High income: OECD","High income",2019,73.5
+"79",81,1362,"ISL","Iceland","High income: OECD","High income",2019,78.9
+"80",82,1379,"IND","India","South Asia","Lower middle income",2019,67.5
+"83",85,1430,"IDN","Indonesia","East Asia & Pacific","Lower middle income",2019,68.2
+"88",90,1515,"IRL","Ireland","High income: OECD","High income",2019,79.4
+"89",91,1532,"ISR","Israel","High income: OECD","High income",2019,76.2
+"90",92,1549,"ITA","Italy","High income: OECD","High income",2019,73
+"92",94,1583,"JPN","Japan","High income: OECD","High income",2019,78.4
+"95",97,1634,"JOR","Jordan","Middle East & North Africa","Upper middle income",2019,61.4
+"96",98,1651,"KAZ","Kazakhstan","Europe & Central Asia","Upper middle income",2019,77.5
+"97",99,1668,"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2019,71
+"101",103,1736,"KWT","Kuwait","Middle East & North Africa","High income",2019,62.6
+"105",107,1804,"LBN","Lebanon","Middle East & North Africa","Upper middle income",2019,54.3
+"108",110,1855,"LBY","Libya","Middle East & North Africa","Upper middle income",2019,32.8
+"110",112,1874,"LTU","Lithuania","High income: OECD","High income",2019,81
+"111",113,1891,"LUX","Luxembourg","High income: OECD","High income",2019,69.5
+"112",114,1908,"MDG","Madagascar","Sub-Saharan Africa","Low income",2019,47
+"113",115,1925,"MWI","Malawi","Sub-Saharan Africa","Low income",2019,60.4
+"114",116,1942,"MYS","Malaysia","East Asia & Pacific","Upper middle income",2019,81.2
+"119",121,2027,"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2019,48.7
+"121",123,2061,"MEX","Mexico","Latin America & Caribbean","Upper middle income",2019,72.3
+"125",127,2129,"MDA","Moldova","Europe & Central Asia","Lower middle income",2019,73.2
+"127",129,2163,"MNE","Montenegro","Europe & Central Asia","Upper middle income",2019,73.4
+"128",130,2180,"MAR","Morocco","Middle East & North Africa","Lower middle income",2019,71.4
+"129",132,2214,"MMR","Myanmar","East Asia & Pacific","Lower middle income",2019,43.9
+"130",133,2231,"NAM","Namibia","Sub-Saharan Africa","Upper middle income",2019,61.4
+"132",135,2265,"NLD","Netherlands","High income: OECD","High income",2019,75.8
+"134",137,2299,"NIC","Nicaragua","Latin America & Caribbean","Lower middle income",2019,54.8
+"136",139,2333,"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2019,53.2
+"140",143,2401,"NOR","Norway","High income: OECD","High income",2019,82.6
+"142",145,2435,"PAK","Pakistan","South Asia","Lower middle income",2019,55.5
+"146",149,2503,"PAN","Panama","Latin America & Caribbean","High income",2019,66.8
+"148",151,2537,"PRY","Paraguay","Latin America & Caribbean","Upper middle income",2019,57.4
+"149",152,2554,"PER","Peru","Latin America & Caribbean","Upper middle income",2019,68.3
+"150",153,2571,"PHL","Philippines","East Asia & Pacific","Lower middle income",2019,61
+"151",154,2588,"POL","Poland","High income: OECD","High income",2019,76.9
+"152",155,2605,"PRT","Portugal","High income: OECD","High income",2019,76.4
+"154",157,2639,"QAT","Qatar","Middle East & North Africa","High income",2019,66.6
+"155",158,2656,"ROM","Romania","Europe & Central Asia","High income",2019,72.3
+"159",162,2724,"RWA","Rwanda","Sub-Saharan Africa","Low income",2019,74.7
+"163",166,2792,"SAU","Saudi Arabia","Middle East & North Africa","High income",2019,63.7
+"164",167,2809,"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2019,54.4
+"165",168,2826,"SRB","Serbia","Europe & Central Asia","Upper middle income",2019,74
+"167",170,2860,"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2019,47.2
+"168",171,2877,"SGP","Singapore","East Asia & Pacific","High income",2019,85.9
+"172",176,2962,"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2019,66.2
+"174",178,2996,"ESP","Spain","High income: OECD","High income",2019,77.7
+"175",179,3013,"LKA","Sri Lanka","South Asia","Lower-middle income",2019,61.7
+"181",185,3115,"SWE","Sweden","High income: OECD","High income",2019,82
+"182",186,3132,"CHE","Switzerland","High income: OECD","High income",2019,76.3
+"185",189,3183,"TJK","Tajikistan","Europe & Central Asia","Low income",2019,55.4
+"186",190,3200,"TZA","Tanzania","Sub-Saharan Africa","Lower-middle income",2019,54.9
+"191",196,3302,"TUN","Tunisia","Middle East & North Africa","Lower middle income",2019,66.7
+"192",197,3319,"TUR","Turkey","Europe & Central Asia","Upper middle income",2019,75.3
+"193",198,3336,"UGA","Uganda","Sub-Saharan Africa","Low income",2019,58.5
+"194",199,3353,"UKR","Ukraine","Europe & Central Asia","Lower middle income",2019,70.1
+"195",200,3370,"ARE","United Arab Emirates","Middle East & North Africa","High income",2019,81.1
+"196",201,3387,"GBR","United Kingdom","High income: OECD","High income",2019,83.6
+"200",205,3455,"URY","Uruguay","Latin America & Caribbean","High income",2019,61.2
+"204",209,3523,"VNM","Vietnam","East Asia & Pacific","Lower middle income",2019,68.6
+"207",212,3574,"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2019,65.5
